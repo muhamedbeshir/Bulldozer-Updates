@@ -1,6 +1,6 @@
 ﻿{
-    "revision":  3,
-    "file":  "updates/rev-3.bmupdate",
-    "sha256":  "C03444271CFBD8C1EA6241D7FE1068A30A9DA129B6C42445ACC12E7E401A90FC",
-    "notes":  "feat: installer, signed auto-update, loading steps, local Arabic fonts, settings fixes"
+    "revision":  4,
+    "file":  "updates/rev-4.bmupdate",
+    "sha256":  "250C4DFF5527B029CDC51A7A1FE2F04DA3D7F063ED6112BCEB5AF135340D5E12",
+    "notes":  "feat: update notice, context menu updates, purchase-returns permissions"
 }
